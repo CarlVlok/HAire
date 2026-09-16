@@ -26,7 +26,7 @@ Job Requirements
   Match Score / 100
 
 ## Installation guide 
-Close the repo
+Clone the repo
 pip install requirements.txt
 python app.py
 
